@@ -122,6 +122,9 @@ I18N.zh = {
             "Training": "培训",
             "Shop": "商店",
             "Blog": "博客",
+            "Forum": "论坛",
+            "Docs": "文档",
+            "Versions": "版本",
             "About": "关于",
 
             // 评论编辑器翻译
