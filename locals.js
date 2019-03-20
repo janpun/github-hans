@@ -67,7 +67,10 @@ I18N.zh = {
 
             "Pull Requests": "拉取请求",
             "Pull requests": "拉取请求",
+            "Code": "代码",
             "Issues": "问题",
+            "Projects": "看板",
+            "Insights": "洞察",
             "Marketplace": "广场",
             "Gist": "代码片段",
             "Your dashboard": "返回首页",
@@ -85,6 +88,7 @@ I18N.zh = {
 
             "Signed in as": "您好",
             "Your profile": "您的主页",
+            "Your projects": "您的看板",
             "Your stars": "点赞的项目",
             "Your gists": "您的代码片段",
             "Explore": "探索",
